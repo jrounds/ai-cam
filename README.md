@@ -9,4 +9,5 @@ Running the notebooks.
      2. General conda best practices advice.  Install packages with `pip install` if you are able.  Use `conda install` only when necessary.
 4. Open `dev/notebooks/yolo11n.pt` in vscode (you may have to setup python plugins)
 5. Set notebook `kernel` to `cu124a` which is the conda environment we installed in step 3.
+6. Run all cells see if anything errors.
 
