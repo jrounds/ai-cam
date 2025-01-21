@@ -4,7 +4,7 @@ See google doc for pictures of install options.
 
 1. miniconda
     2. Don't install anaconda.  
-    3.  Allow conda to be found in commandline as a setup option.
+    3. Follow instructions in this document: https://docs.google.com/document/d/16L38YWlN30kcluCOIjOBs2CmZu7EbwgMi8p9PtGe3vA/edit?usp=sharing 
 2. git for windows.
     1. Allow it to install unix likes tools at the command line.
 3. pycharm community edition
