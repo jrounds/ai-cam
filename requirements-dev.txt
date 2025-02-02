@@ -5,3 +5,10 @@ numba
 arrow
 tqdm
 notebook
+ultralytics
+vidgear
+opencv-python
+python-dotenv
+google-api-python-client
+google-auth-oauthlib 
+google-auth-httplib2
